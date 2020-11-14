@@ -1,4 +1,4 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
+<img align="left" height="140px" src="https://raw.githubusercontent.com/kristianbinau/kristianbinau/main/dog.gif">
 
 [![pgp](https://img.shields.io/badge/pgp-fcd94971b4b13d745e380beb4ecc2f6913567eaa-313131?style=flat-square&labelColor=313131&color=313131)](https://api.protonmail.ch/pks/lookup?op=get&search=kristian@binau.me)   
 [![twitter](https://img.shields.io/badge/-@kristianbinau__-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/KristianBinau)  
